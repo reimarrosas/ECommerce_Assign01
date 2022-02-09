@@ -4,8 +4,8 @@
   <table class="table">
     <thead class="thead-dark">
       <tr>
-        <th class="text-center">Krikor Astour</th>
-        <th class="text-center">1895033</th>
+        <th class="text-center">Student Name</th>
+        <th class="text-center">Student ID</th>
         <th class="text-center">Task</th>
         <th class="text-center">Timeline</th>
       </tr>
@@ -19,7 +19,7 @@
       </tr>
       <tr>
         <td class="text-center">Krikor Astour</td>
-        <td class="text-center">[PENDING]</td>
+        <td class="text-center">1895033</td>
         <td class="text-center">Front-End Programming, Back-End Logic</td>
         <td class="text-center">3 weeks</td>
       </tr>
