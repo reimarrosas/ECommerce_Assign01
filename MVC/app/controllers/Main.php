@@ -19,4 +19,12 @@ class Main extends Controller
     {
         $this->view('Home/timeline');
     }
+
+    public function contact(){
+        $this->view('Home/contact');
+    }
+
+    public function about(){
+        $this->view('Home/about');
+    }
 }
